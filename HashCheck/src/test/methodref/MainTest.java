@@ -4,6 +4,8 @@ public class MainTest {
 
 	public static void main(String[] args) {
 		
+		String _s = "add new variable";
+		
 		String s = "Test";
 		
 		// SomeClass::staticMethod
